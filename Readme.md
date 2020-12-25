@@ -1,5 +1,7 @@
-##1. Lab8. - src/main/javaopt/lab8
-##2. Lab7 - src/main/javaopt/lab7
+# Javaopt Lab 7 and 8
+
+## 1. Lab8. - src/main/javaopt/lab8
+## 2. Lab7 - src/main/javaopt/lab7
 
 Самый быстрый метод - посимвольная поверка числа isDigitCheck
 
